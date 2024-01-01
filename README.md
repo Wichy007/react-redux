@@ -2,6 +2,8 @@
 
 วิธี run
 
-1. yarn
+1. cd React-Redux-101
+
+2. yarn
    
-2. yarn dev
+3. yarn dev
